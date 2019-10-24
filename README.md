@@ -1,3 +1,5 @@
+![](Untitled.png)
+
 # Game On Application
 
 > Game search app built with the MERN stack along with Redux for state management, Reactstrap and react-transition-group.
