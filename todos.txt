@@ -1,0 +1,31 @@
+*** ATTENTION TO ANY DEV THAT ASSISTS ME.  i HAVE VETTED THAT THE CURRENT FILE STRUCTURE IS DEPLOYABLE.  PLEASE DO NOT MAKE ANY MAJOR CHANGES WITHOUT CONSULTING WITH ME TO THE MASTER BRANCH!!!***
+
+
+1.  Login currently supports the navbar login options.  I want to redo those with the card I made.
+
+
+
+2.  MongoDB is wired and functional however after making changes to the model it obviously no longer works.  Need mapping for IGDB calls.
+
+
+
+https://github.com/igdb/node-apicalypse
+This has what I see as a very relevant api call at the bottom labeled as a Multi-Query.
+
+3.  Functionality for rendering the games needs to be built out still.  I like the idea of a netflixish look with a stretch goal of multiple carousels.
+
+
+
+4.  With the other three being more important minus the stretch goals the user authentication needs to be wired to serve a purpose other than just logging in eventually.  Horse before the cart.
+
+
+
+5.  I have an Auth0 method from the previous attempt at this project.  This should only be attempted once all other conditions have been met.
+
+
+
+Redux Crash Course - https://www.youtube.com/watch?v=93p3LxR9xfM&t=3s
+Template content guide - https://www.youtube.com/watch?v=PBTYxXADG_k
+
+
+*** EACH OF THESE POINTS SHOULD BE FURTHER EXPANDED UPON IN REGARDS TO GOALS AND STEPS TO MEET THEM UPON CONSULTATION ***
