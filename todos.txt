@@ -5,22 +5,26 @@
 
 
 
-2.  MongoDB is wired and functional however after making changes to the model it obviously no longer works.  Need mapping for IGDB calls.
+2.  Navbar needs a purpose beyond a brand.  Potentially an option to view a saved list eventually.  Once basic functionality is achieved.
+
+
+
+3.  MongoDB is wired and functional however after making changes to the model it obviously no longer works.  Need mapping for IGDB calls.
 
 
 
 https://github.com/igdb/node-apicalypse
 This has what I see as a very relevant api call at the bottom labeled as a Multi-Query.
 
-3.  Functionality for rendering the games needs to be built out still.  I like the idea of a netflixish look with a stretch goal of multiple carousels.
+4.  Functionality for rendering the games needs to be built out still.  I like the idea of a netflixish look with a stretch goal of multiple carousels.
 
 
 
-4.  With the other three being more important minus the stretch goals the user authentication needs to be wired to serve a purpose other than just logging in eventually.  Horse before the cart.
+5.  With the other three being more important minus the stretch goals the user authentication needs to be wired to serve a purpose other than just logging in eventually.  Horse before the cart.
 
 
 
-5.  I have an Auth0 method from the previous attempt at this project.  This should only be attempted once all other conditions have been met.
+6.  I have an Auth0 method from the previous attempt at this project.  This should only be attempted once all other conditions have been met.
 
 
 
